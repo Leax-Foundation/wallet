@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="347px" height="427px" viewBox="0 0 347 427" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>003-shield</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="003-shield" fill="#0662CA">
+            <g id="Group">
+                <polygon id="Shape" points="131.947 179.017 106.086 204.877 173.35 272.141 173.35 220.416"></polygon>
+                <path d="M173.35,0 C124.834,35.482 65.233,56.585 0.657,57.067 L0.657,157.201 C0.657,276.744 71.424,379.767 173.35,426.667 C275.26,379.767 346.01,276.74 346.01,157.201 L346.01,57.067 C281.442,56.585 221.807,35.482 173.35,0 L173.35,0 Z M173.35,272.141 L173.346,272.132 L173.35,383.701 C91.212,338.7 39.057,251.656 39.057,157.201 L39.057,93.043 C86.767,87.292 132.322,71.424 173.338,46.225 L173.347,220.412 L173.351,220.416 L242.565,151.206 L268.425,177.066 L173.35,272.141 L173.35,272.141 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

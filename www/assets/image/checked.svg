@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="427px" height="427px" viewBox="0 0 427 427" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>012-checked</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" id="radialGradient-1">
+            <stop stop-color="#BCE481" offset="0%"></stop>
+            <stop stop-color="#87C44A" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="012-checked" fill="url(#radialGradient-1)">
+            <path d="M213.333,0 C95.518,0 0,95.514 0,213.333 C0,331.152 95.518,426.666 213.333,426.666 C331.161,426.666 426.666,331.152 426.666,213.333 C426.666,95.514 331.157,0 213.333,0 L213.333,0 Z M174.199,322.918 L80.264,228.987 L111.573,197.678 L174.199,260.3 L315.093,119.402 L346.402,150.711 L174.199,322.918 L174.199,322.918 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

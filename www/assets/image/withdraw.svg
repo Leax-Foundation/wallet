@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="427px" height="427px" viewBox="0 0 427 427" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" id="radialGradient-1">
+            <stop stop-color="#BCE481" offset="0%"></stop>
+            <stop stop-color="#87C44A" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" id="radialGradient-2">
+            <stop stop-color="#FBFFFF" offset="0%"></stop>
+            <stop stop-color="#DEE7ED" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(-8.000000, 0.000000)">
+            <g id="012-checked" transform="translate(8.000000, 0.000000)" fill="url(#radialGradient-2)">
+                <g id="Page-1">
+                    <g id="012-checked">
+                        <path d="M213.333,0 C95.518,0 0,95.514 0,213.333 C0,331.152 95.518,426.666 213.333,426.666 C331.161,426.666 426.666,331.152 426.666,213.333 C426.666,95.514 331.157,0 213.333,0 L213.333,0 L213.333,0 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(186.500000, 213.500000) rotate(90.000000) translate(-186.500000, -213.500000) translate(121.000000, 27.000000)" font-size="419" font-family="GothamMedium, Gotham Medium" fill="#BDCAD2" font-weight="normal">
+                <text id="l">
+                    <tspan x="0.083" y="306">l</tspan>
+                </text>
+                <text id="l">
+                    <tspan x="11.083" y="306">l</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
